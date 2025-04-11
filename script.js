@@ -1,5 +1,5 @@
 let num=[3,5,6,8,12,15,7];
-console.log(num.length);
+
 console.log("Original array",num)
 let evenarry=[];
 let oddarry=[];
